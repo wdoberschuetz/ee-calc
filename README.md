@@ -1,5 +1,11 @@
 # EeCalc
 
+Task version: 5b8d0fd276b6d288905ed2f63a934e057e8feca2
+
+Before the first run, please do ``npm install`` and afterwards ``npm run start`` to check the calculator and ``npm run test`` for unit tests. Coverage can be found in the main folder -> coverage -> ee-calc -> index.html, as per Angular standards.
+
+===STANDARD ANGULAR README BENEATH===
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3.
 
 ## Development server
